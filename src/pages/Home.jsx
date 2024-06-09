@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Boton from '../components/Boton';
-import imagenBienvenida from '../assets/galletita.jpg';
+import imagenBienvenida from '../assets/galletita.webp';
 import BarraNavegacion from '../components/BarraNavegacion'; // Importa el componente de la barra de navegación
 
 const Home = () => {
